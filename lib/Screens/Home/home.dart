@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
                                               ),
                                               const SizedBox(width: 5),
                                               SizedBox(
-                                                width: 240,
+                                                width: 200,
                                                 child: Text('nagendragopalkatakamsetti@gmail.com',
                                                     overflow: TextOverflow.ellipsis,
                                                     softWrap: false,
